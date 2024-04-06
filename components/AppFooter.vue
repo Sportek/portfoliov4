@@ -2,7 +2,7 @@
   <footer class="flex flex-col gap-4">
     <hr class="opacity-50" />
 
-    <div class="flex w-[50%] flex-row justify-between gap-4">
+    <div class="flex flex-col justify-between gap-4 sm:w-[50%] sm:flex-row">
       <!-- Infos -->
       <div class="flex flex-col gap-4">
         <div class="flex flex-row items-center gap-2">
