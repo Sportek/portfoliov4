@@ -18,8 +18,8 @@
       <div class="flex w-[50%] flex-col gap-4">
         <div>GENERAL</div>
         <div class="flex flex-col gap-2">
-          <CustomLink to="/" class="opacity-75">About</CustomLink>
-          <CustomLink to="/" class="opacity-75">Tools</CustomLink>
+          <CustomLink to="/about" class="opacity-75">About</CustomLink>
+          <CustomLink to="/tools" class="opacity-75">Tools</CustomLink>
         </div>
       </div>
     </div>
