@@ -9,7 +9,7 @@
           >Polytechnique Montréal</CustomLink
         >
         specialized in web based programming, loving to learn by creating
-        interesting and well-constructed projects
+        interesting and well-constructed projects.
       </div>
       <div
         class="flex w-full flex-col items-center justify-center gap-4 sm:flex-row"

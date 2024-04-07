@@ -5,15 +5,26 @@
     >
       <!-- Left side -->
       <div class="flex flex-row items-center gap-4">
-        <NuxtLink to="/">
+        <NuxtLink
+          to="/"
+          class="flex flex-row items-center gap-4 transition-all duration-200 ease-in-out hover:opacity-70"
+        >
           <NuxtImg src="img/icon.webp" alt="Logo" width="24" height="24" />
+          <div class="text-xl">Gabriel Landry</div>
         </NuxtLink>
-        <NuxtLink to="/" class="text-xl">Gabriel Landry</NuxtLink>
       </div>
       <!-- Right side -->
       <div class="flex flex-row items-center gap-4">
-        <NuxtLink to="/about">About</NuxtLink>
-        <NuxtLink to="/tools">Tools</NuxtLink>
+        <NuxtLink
+          class="transition-all duration-200 ease-in-out hover:opacity-70"
+          to="/about"
+          >About</NuxtLink
+        >
+        <NuxtLink
+          class="transition-all duration-200 ease-in-out hover:opacity-70"
+          to="/tools"
+          >Tools</NuxtLink
+        >
       </div>
     </header>
   </div>

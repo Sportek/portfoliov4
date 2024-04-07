@@ -1,1 +1,3 @@
-<template>about</template>
+<template>
+  <AboutSkillSection />
+</template>
