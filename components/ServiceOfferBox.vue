@@ -8,7 +8,7 @@ defineProps<{
 </script>
 <template>
   <div
-    class="box-border flex h-full w-full flex-col justify-between gap-2 rounded-md border p-8"
+    class="box-border flex h-full w-full flex-col justify-between gap-2 rounded-md border border-text border-opacity-50 bg-primary bg-opacity-5 p-8"
   >
     <div class="text-lg text-primary">{{ title }}</div>
     <div>{{ description }}</div>

@@ -4,7 +4,7 @@ defineProps<{
 }>();
 </script>
 <template>
-  <NuxtLink :to="to" class="underline hover:opacity-90">
+  <NuxtLink :to="to" class="underline hover:opacity-45">
     <slot />
   </NuxtLink>
 </template>
