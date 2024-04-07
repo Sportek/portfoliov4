@@ -6,9 +6,9 @@
       <!-- Left side -->
       <div class="flex flex-row items-center gap-4">
         <NuxtLink to="/">
-          <NuxtImg src="img/icon.webp" alt="Logo" width="32" height="32" />
+          <NuxtImg src="img/icon.webp" alt="Logo" width="24" height="24" />
         </NuxtLink>
-        <NuxtLink to="/">Gabriel Landry</NuxtLink>
+        <NuxtLink to="/" class="text-xl">Gabriel Landry</NuxtLink>
       </div>
       <!-- Right side -->
       <div class="flex flex-row items-center gap-4">
