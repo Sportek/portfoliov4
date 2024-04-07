@@ -83,7 +83,7 @@ const skills: {
 </script>
 <template>
   <div class="flex flex-col gap-4">
-    <div class="text-xl text-primary">SKILLS</div>
+    <div class="text-xl text-primary">PROGRAMMING SKILLS</div>
     <div class="flex flex-row flex-wrap gap-2">
       <div
         v-for="skill in skills"
