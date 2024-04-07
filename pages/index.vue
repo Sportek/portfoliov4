@@ -1,5 +1,4 @@
 <template>
-  <div>
-    <IndexProfileSection />
-  </div>
+  <IndexProfileSection />
+  <IndexServiceSection />
 </template>
